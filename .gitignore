@@ -1,0 +1,5 @@
+tools/annotator.py
+tools/crop_maps.py
+
+checkpoints/
+data/
